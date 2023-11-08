@@ -1,0 +1,9 @@
+{
+    "greetings": "Thank you for calling {}. How can we assist you today?",
+    "english_translation_system_prompt": "This is a sales call between {company_name} agent and customer. Translate to English language while preserving tone, emotion, and meaning.",
+    "english_translation_human_prompt": "Translate the below message to English.\nInput: {user_input}\nOutput:\n",
+    "transcript_analyser_system_prompt": "You have to audit the above sales call between {company_name} agent and customer. Give me a list of 5-10 bullet points with key insights and most important facts in English language. \n{format_instructions}",
+    "transcript_analyser_human_prompt": "{user_input}",
+    "transcript_correction_system_prompt": "This is a sales call between {company_name} agent and customer. Improve the transcription by identifying both the speakers and  language while preserving tone, emotion, and meaning.",
+    "transcript_correction_human_prompt": "Translate the below message to English.\nInput: {user_input}\nOutput:\n"
+}
