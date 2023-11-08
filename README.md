@@ -51,7 +51,7 @@ To run the Sales Call LLM Analysis Tool, execute the main script:
 python3 main.py
 ```
 
-The main.py script is the entry point of the application and orchestrates the process flow. 
+The main.py script is the entry point of the application and orchestrates the complete process flow. 
 
 ## Configuration
 
